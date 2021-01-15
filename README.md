@@ -12,7 +12,3 @@ Server should decrypt the file and deserialize the data and Read data send by cl
 
 **Python Networking**
 
-=======
-# Evaluation-Criteria-Assignment-7
-Knowledge of Data compression, Cryptography, Networking.
-
