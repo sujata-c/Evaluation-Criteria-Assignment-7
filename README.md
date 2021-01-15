@@ -1,3 +1,4 @@
+
 # Knowledge of Data Compression, Archiving, Marshalling, Cryptograpy and Networking
 
 
@@ -10,4 +11,8 @@ Transfer compressed database file over the network using Python code.
 Server should decrypt the file and deserialize the data and Read data send by client
 
 **Python Networking**
+
+=======
+# Evaluation-Criteria-Assignment-7
+Knowledge of Data compression, Cryptography, Networking.
 
